@@ -5,7 +5,7 @@ This isnt fancy or complete but I rather it exist in any state
 
 Feel free to open a pull request to add whatever
 ## Table of contents
-* [General](README.md#1-general)
+* [General](README.md#user-content-general)
 
 ## General
 ### Official
