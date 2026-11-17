@@ -13,7 +13,7 @@ Feel free to open a pull request to add whatever
 ## Tutorials-General
 
 ## Tutorials-Avatars
-
+### Advanced-Avatar
 ## Tutorials-Worlds
 
 ## Tutorials-Props
